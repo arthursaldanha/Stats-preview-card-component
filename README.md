@@ -1,20 +1,20 @@
-# Frontend Mentor - solução de componente de cartão de visualização de estatísticas
+# Frontend Mentor - Stats preview card component
 
-Esta é uma solução para o desafio "Stats preview card component" no Frontend Mentor (https://www.front Bedor.io/challenges/stats-preview-card-component-8JqbgoU62). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
+Esta é uma solução para o desafio "Stats preview card component" no [Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
 
 ## Índice
 
-- [Visão geral] (#visão-geral)
-  - [O desafio] (#o-desafio)
-  - [Captura de tela] (#captura-de-tela)
-  - [Links] (#links)
-- [Meu processo] (#meu-processo)
-  - [Criado com] (#integrado)
-  - [O que aprendi] (#o-que-aprendi)
-  - [Maiores dificuldades] (#maiores-dificuldades)
-  - [Desenvolvimento contínuo] (#desenvolvimento-contínuo)
-- [Autor] (#autor)
-- [Agradecimentos] (#agradecimentos)
+- [Visão geral](#visão-geral)
+  - [O desafio](#o-desafio)
+  - [Captura de tela](#captura-de-tela)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [Criado com](#integrado)
+  - [O que aprendi](#o-que-aprendi)
+  - [Maiores dificuldades](#maiores-dificuldades)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
 ## Visão geral
 
@@ -30,8 +30,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui] (https://your-solution-url.com)
-- URL do site ativo: [Adicionar URL do site ativo aqui] (https://your-live-site-url.com)
+- URL da solução: [Repositório da Solução / Solution Repository](https://github.com/arthursaldanha/Stats-preview-card-component)
+- URL do site ativo: [Adicionar URL do site ativo aqui](https://your-live-site-url.com)
 
 ## Meu processo
 
@@ -59,8 +59,8 @@ Use esta seção para delinear as áreas nas quais deseja continuar a se concent
 
 ## Autor
 
-- Frontend Mentor - [@arthursaldanha] (https://www.frontendmentor.io/profile/arthursaldanha)
-- Instagram - [@saldanha.jpg] (https://www.instagram.com/saldanha.jpg/)
+- Frontend Mentor - [@arthursaldanha](https://www.frontendmentor.io/profile/arthursaldanha)
+- Instagram - [@saldanha.jpg](https://www.instagram.com/saldanha.jpg/)
 
 ## Agradecimentos
 

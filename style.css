@@ -94,7 +94,7 @@ section {
    grid-area: image;
    background: 
       linear-gradient(var(--accent-image), var(--accent-image)), 
-      url("../images/image-header-desktop.jpg") center / cover no-repeat;
+      url("/images/image-header-desktop.jpg") center / cover no-repeat;
    border-radius: 0 10px 10px 0;
 }
 
@@ -105,7 +105,7 @@ section {
       grid-template-areas: 
          "image"
          "content";
-      max-width: 70%;
+      max-width: 80%;
       height: 90%;
    }
 
@@ -122,6 +122,7 @@ section {
    
    .content h1 {
       font-size: 1.8rem;
+      align-self: center;
    }
 
    .stats {
@@ -133,6 +134,9 @@ section {
 
    .image {
       border-radius: 10px 10px 0 0;
+      background: 
+         linear-gradient(var(--accent-image), var(--accent-image)), 
+         url("/images/image-header-mobile.jpg") center / cover no-repeat;
    }
 }
 
