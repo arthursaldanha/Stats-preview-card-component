@@ -94,7 +94,7 @@ section {
    grid-area: image;
    background: 
       linear-gradient(var(--accent-image), var(--accent-image)), 
-      url("/images/image-header-desktop.jpg") center / cover no-repeat;
+      url("./images/image-header-desktop.jpg") center / cover no-repeat;
    border-radius: 0 10px 10px 0;
 }
 
@@ -136,7 +136,7 @@ section {
       border-radius: 10px 10px 0 0;
       background: 
          linear-gradient(var(--accent-image), var(--accent-image)), 
-         url("/images/image-header-mobile.jpg") center / cover no-repeat;
+         url("./images/image-header-mobile.jpg") center / cover no-repeat;
    }
 }
 

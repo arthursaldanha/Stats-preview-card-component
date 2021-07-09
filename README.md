@@ -9,8 +9,8 @@ Esta é uma solução para o desafio "Stats preview card component" no [Frontend
   - [Captura de tela](#captura-de-tela)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Criado com](#integrado)
-  - [O que aprendi](#o-que-aprendi)
+  - [Criado com](#criado-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
   - [Maiores dificuldades](#maiores-dificuldades)
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [Autor](#autor)
@@ -35,7 +35,7 @@ Os usuários devem ser capazes de:
 
 ## Meu processo
 
-### Construído com
+### Criado com
 
 - Marcação HTML5 semântica
 - propriedades personalizadas CSS
