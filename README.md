@@ -26,7 +26,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-! [] (./screenshot.png)
+![Screenshot](screenshot.png)
 
 ### Links
 
@@ -54,8 +54,6 @@ Minhas maiores dificuldades inicialmente foram as unidades de medidas relativas 
 ### Desenvolvimento contínuo
 
 Desejo continuar estudando e aprimorando minhas habilidades no CSS3 já que sou apaixonado por design e para futuramente usar nos frameworks de JavaScript.
-
-Use esta seção para delinear as áreas nas quais deseja continuar a se concentrar em projetos futuros. Podem ser conceitos com os quais você ainda não está completamente confortável ou técnicas que você achou úteis e que deseja refinar e aperfeiçoar.
 
 ## Autor
 
