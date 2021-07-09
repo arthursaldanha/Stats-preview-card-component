@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: [Repositório da Solução / Solution Repository](https://github.com/arthursaldanha/Stats-preview-card-component)
-- URL do site ativo: [Adicionar URL do site ativo aqui](https://your-live-site-url.com)
+- URL do site ativo: [Site ativo / Active site](https://arthursaldanha.github.io/Stats-preview-card-component/)
 
 ## Meu processo
 
