@@ -7,6 +7,9 @@
       <link rel="shortcut icon" href="/images/favicon-32x32.png" type="image/x-icon">
       <meta name="description" content="Stats preview card component">
       <meta name="keywords" content="Stats preview card component, Frontend Mentor">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap" rel="stylesheet"> 
       <link rel="stylesheet" href="reset.css">
       <link rel="stylesheet" href="style.css">
       <title>Stats preview card component</title>
@@ -14,29 +17,40 @@
    <body>
       <main>
          <section>
-            <div class="box">
-               <div class="content">
-                  <h1>Get <span>insights</span> that help your business grow.</h1>
-                  <p>Discover the benefits of data analytics and make better desicions regarding revenue, customer, experience, and overall efficiency.</p>
-               </div>
-               <div class="stats">
-                  <div class="stats__box">
-                     <h2>10k+</h2>
-                     <p>COMPANIES</p>
-                  </div>
-                  <div class="stats__box">
-                     <h2>314</h2>
-                     <p>TEMPLATES</p>
-                  </div>
-                  <div class="stats__box">
-                     <h2>12M+</h2>
-                     <p>QUERIES</p>
-                  </div>
-               </div>
+            <div class="image__container">
+               <img 
+                  class="image__mobile"
+                  src="./images/image-header-mobile.jpg" 
+                  alt="Women at a computer" 
+               />
+               <img 
+                  class="image__desktop"
+                  src="./images/image-header-desktop.jpg" 
+                  alt="Women at a computer" 
+               />
+               <div class="image__overlay"></div>
             </div>
-            
-            
-            <div class="image"></div>
+            <div class="text__container">
+               <h1>Get <span>insights</span> that help your business grow.</h1>
+               <p class="text__paragraph">
+                 Discover the benefits of data analytics and make better decisions
+                 regarding revenue, customer experience, and overall efficiency.
+               </p>
+               <div class="numbers__container">
+                 <div class="number">
+                   <p class="text__numbers">10k+</p>
+                   <p>companies</p>
+                 </div>
+                 <div class="number">
+                   <p class="text__numbers">314</p>
+                   <p>templates</p>
+                 </div>
+                 <div class="number">
+                   <p class="text__numbers">12M+</p>
+                   <p>queries</p>
+                 </div>
+               </div>
+             </div>
          </section>
       </main>
    </body>
